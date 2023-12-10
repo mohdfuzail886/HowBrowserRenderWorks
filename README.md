@@ -1,4 +1,5 @@
 Author - (MOHD FUZAIL)
+Please go through the screenshots for the reference "HANDWRITTEN NOTES" on the same topic. FEEL FREE TO CORRECT ME
 
 #NOTES✨✨
 Understanding browser rendering is crucial for front-end developers because it directly impacts the user experience and overall performance of web applications. Here are several reasons why browser rendering is important in front-end development:
